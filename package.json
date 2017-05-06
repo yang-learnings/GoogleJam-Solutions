@@ -1,0 +1,19 @@
+{
+  "name": "googlejam-solutions",
+  "version": "1.0.0",
+  "description": "solutions to google jam questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangli1990/GoogleJam-Solutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangli1990/GoogleJam-Solutions/issues"
+  },
+  "homepage": "https://github.com/yangli1990/GoogleJam-Solutions#readme"
+}
